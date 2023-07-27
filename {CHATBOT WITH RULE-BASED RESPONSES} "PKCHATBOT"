@@ -42,3 +42,33 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+'''
+output-
+WELCOME TO PKCHATBOT
+Chatbot: Hello! I hope you are doing great. How can I assist you today?
+You: hello
+Chatbot: Hello! How can I assist you today?
+You: good morning
+Chatbot: Good Morning! How can I assist you today?
+You: good afternoon
+Chatbot: Good Afternoon! How can I assist you today?
+You: good evening
+Chatbot: Good Evening! How can I assist you today?
+You: how are you
+Chatbot: I'm just a chatbot,I don't have feelings but thanks for asking! How can I help you?
+You: what is your name
+Chatbot: I am PKchatbot.
+You: thanks
+Chatbot: You're welcome!
+You: who made you
+Chatbot: I was coded by Mr. Piyush
+You: are you a robot
+Chatbot: I am a Chatbot.My purpose is to assist and provide information to the best of my abilities,I'm here to help with your questions or concerns you may have!
+You: good night
+Chatbot: Good Night! If you have any more questions or need assistance in the future, feel free to reach out. Have a restful sleep! Take care!. Now you can 'exit' the ongoing session.
+You: how old are you
+Chatbot: I'm sorry, I don't understand. Could you please rephrase your question?
+You: exit
+Chatbot: Goodbye! Have a great day!
+'''
